@@ -3,7 +3,7 @@
 '''
 Created on 2018年7月8日
 
-@author: zhuchao
+@author: lomoons
 '''
 import os
 import random
